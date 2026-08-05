@@ -52,7 +52,7 @@ conclusions from the data.
 2. Ensure the stock CSV files (`Tesla_Stock.csv`, `Ford_Stock.csv`, `GM_Stock.csv`) are
    in the same directory as the notebook
 3. Install requirements: `pip install pandas numpy matplotlib`
-4. Open `Stock_Analysis_Project.ipynb` in Jupyter and run all cells
+4. Open `Stock Analysis Project.ipynb` in Jupyter and run all cells
 
 ---
 
